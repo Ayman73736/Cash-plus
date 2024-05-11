@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CASH PLUS</title>
+    <link rel="stylesheet" href="my style.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+<link rel="shortcut icon" href="pic/favicon.png" />
+
+</head>
+
+<body>
+<?php include 'header.php'; ?>
+    <section class="sub-header">
+    
+        <div class="row">
+            <div class="welc" id="welcome">WELCOME!</div>
+            <div class="right-flow"></div>
+            <div class="texto"> At CASH PLUS, we don't just offer jobs; we provide enriching and stimulating career
+                opportunities. If you're looking for a dynamic work environment focused on innovation and professional
+                growth, you're in the right place. <br> <br>We are always on the lookout for passionate, committed, and
+                innovative talents to join our team. Together, we will build a promising future for you and our company.
+                <br> <br> Discover our current career opportunities on our <a href="https://www.cashplus.ma/"
+                    style="color:cornflowerblue"><strong>website</strong></a> and
+                start your journey with CASH PLUS. We look forward to welcoming you to our professional family.
+            </div>
+            <div class="piic" id="w-node-_050bf3fc-9e4d-0bcf-1755-21621583c47f-80a79791"> <img src="pic/kh.webp"
+                    alt="become a partner" class="mediaa"> </div>
+            <div class="align">
+                <div class="welc" id="form">FILL IN THE FORM</div>
+                <h2 class="hak"><strong style="color: blue;">Your Request</strong> In A Few Clicks</h2>
+            </div>
+            <div class="contact-col">
+                <form  action="send.php" method="post" enctype="multipart/form-data">
+                    <div class="input-r">
+                        <input type="text" name="Fname" placeholder="First name*" required><input type="text"
+                            name="Lname" placeholder="Last Name*" required>
+                    </div>
+                    <div class="input-r">
+                        <div class="right-flow" style="top: 50%; background-color:rgba(249, 253, 0, 0.425);"></div>
+                        <input type="email" name="email" placeholder="Email*" required><input type="tel" name="number"
+                            placeholder="Number Phone*" required>
+                    </div>
+                    <div class="input-r">
+                        <input type="text" name="CIN" placeholder="CIN*" required><input type="text" name="City"
+                            placeholder="City*" required>
+                    </div>
+                    <div class="input-r">
+                        <textarea rows="8" name="message" placeholder="Why you choose cash Plus" required></textarea>
+                    </div>
+                    <div class="input-r">
+                        Enter Your CV :<input type="file" name="file" required></div>
+                    <label class="lab">
+                        <div class="check">
+                            <input type="checkbox" required >
+                        </div> <P style="font-family:'Times New Roman', Times, serif;margin-top:3px;">I have read and accept the  <a href="https://www.cashplus.ma/legal/mentions-legales" style="color:cornflowerblue"><strong>   general terms </strong></a> and <a href="https://www.cashplus.ma/legal/conditions-generales" style="color:cornflowerblue"><strong> conditions </strong></a> of us, in particular the
+                        statement concerning the protection of personal data.</P>
+                    </label>
+                    <div class="align">
+                        <button type="submit" class="hero-btn" name="send">Send Your Request</button>
+                    </div>
+            </div>
+            </form>
+        </div>
+    </section>
+    <section id="conditions" class="condition">
+        <div class="padding">
+            <div class="container">
+                <div class="vertical vecto">
+                    <div class="t9sima" id="t9simaa">
+                        <div class="limna">
+                            <div class="lfo9aniya xx">
+                                <h2 class="zwa9a" id="zwa9aa"> Conditio to <span class="move"> become a Cash Plus
+                                        agent</span> <br>
+                                </h2>
+                            </div>
+                            <div class="tahtaniya lfo9aniya" id="lele">
+                                <div class="lktaba yy"> In order to become a Cash plus agent, it is imperative to :
+                                </div>
+                            </div>
+                        </div>
+                        <div id="w-node-_13e51982-6fc1-ca8c-c114-61346ebb2ae6-80a79791" class="lisra">
+                            <div class="wraper limna">
+                                <div style="opacity: 1;display: inline; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                                    class="lwwla lfo9aniya">
+                                    <div class="ll">
+                                        <div class="asmahom">
+                                            <div class="embed">
+                                                <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <circle cx="14" cy="14" r="14" fill="#E5F3F4"></circle>
+                                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                                        d="M9.36987 13.7464L12.1742 16.989L20.3681 7.26148C20.9816 6.60422 21.9456 7.30526 21.4636 8.05017L13.4011 20.3628C12.7877 21.1515 11.9552 21.2392 11.2541 20.4505L7.17904 15.5867C6.39034 14.4474 8.40588 12.8264 9.36987 13.7464V13.7464Z"
+                                                        fill="#008995"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="lktba">
+                                            <div>Have a degrees in marketing or communications<br></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=" limna">
+                                    <div style="opacity: 1;display: inline; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                                        class="lwwla lfo9aniya">
+                                        <div class="ll">
+                                            <div class="asmahom">
+                                                <div class="embed">
+                                                    <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <circle cx="14" cy="14" r="14" fill="#E5F3F4"></circle>
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M9.36987 13.7464L12.1742 16.989L20.3681 7.26148C20.9816 6.60422 21.9456 7.30526 21.4636 8.05017L13.4011 20.3628C12.7877 21.1515 11.9552 21.2392 11.2541 20.4505L7.17904 15.5867C6.39034 14.4474 8.40588 12.8264 9.36987 13.7464V13.7464Z"
+                                                            fill="#008995"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <div class="lktba">
+                                                <div> Have an experience in a related field<br></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" limna">
+                                        <div style="opacity: 1;display: inline; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                                            class="lwwla lfo9aniya">
+                                            <div class="ll">
+                                                <div class="asmahom">
+                                                    <div class="embed">
+                                                        <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <circle cx="14" cy="14" r="14" fill="#E5F3F4"></circle>
+                                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                d="M9.36987 13.7464L12.1742 16.989L20.3681 7.26148C20.9816 6.60422 21.9456 7.30526 21.4636 8.05017L13.4011 20.3628C12.7877 21.1515 11.9552 21.2392 11.2541 20.4505L7.17904 15.5867C6.39034 14.4474 8.40588 12.8264 9.36987 13.7464V13.7464Z"
+                                                                fill="#008995"></path>
+                                                        </svg>
+                                                    </div>
+                                                </div>
+                                                <div class="lktba">
+                                                    <div>Language Proficiency in French Arab<br></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class=" limna">
+                                            <div style="opacity: 1;display: inline; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                                                class="lwwla lfo9aniya">
+                                                <div class="ll">
+                                                    <div class="asmahom">
+                                                        <div class="embed">
+                                                            <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <circle cx="14" cy="14" r="14" fill="#E5F3F4"></circle>
+                                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                    d="M9.36987 13.7464L12.1742 16.989L20.3681 7.26148C20.9816 6.60422 21.9456 7.30526 21.4636 8.05017L13.4011 20.3628C12.7877 21.1515 11.9552 21.2392 11.2541 20.4505L7.17904 15.5867C6.39034 14.4474 8.40588 12.8264 9.36987 13.7464V13.7464Z"
+                                                                    fill="#008995"></path>
+                                                            </svg>
+                                                        </div>
+                                                    </div>
+                                                    <div class="lktba">
+                                                        <div> You'll need the necessary technology and equipment to
+                                                            facilitate Cash Plus transactions, which may include a
+                                                            computer, internet connection, a secure point-of-sale
+                                                            terminal, and other hardware. <br></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class=" limna">
+                                                <div style="opacity: 1;display: inline; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                                                    class="lwwla lfo9aniya">
+                                                    <div class="ll">
+                                                        <div class="asmahom">
+                                                            <div class="embed">
+                                                                <svg width="28" height="28" viewBox="0 0 28 28"
+                                                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <circle cx="14" cy="14" r="14" fill="#E5F3F4">
+                                                                    </circle>
+                                                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                                                        d="M9.36987 13.7464L12.1742 16.989L20.3681 7.26148C20.9816 6.60422 21.9456 7.30526 21.4636 8.05017L13.4011 20.3628C12.7877 21.1515 11.9552 21.2392 11.2541 20.4505L7.17904 15.5867C6.39034 14.4474 8.40588 12.8264 9.36987 13.7464V13.7464Z"
+                                                                        fill="#008995"></path>
+                                                                </svg>
+                                                            </div>
+                                                        </div>
+                                                        <div class="lktba">
+                                                            <div>Be respecful respecting colleagues, clients, superiors,
+                                                                and company policies<br></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+    </section>
+    <section id="steps" class="sticky" id="automobile">
+        <div class="paddingP">
+            <div class="containerl">
+                <div class="paddingV paddingH">
+                    <div class="stickyW" id="stickyW">
+                        <div id="w_node" class="stickyC" style="opacity: 1;">
+                            <div class="coliss">
+                                <div class="marginB marginS wraper" id="wrr">
+                                    <div class="stickyT">
+                                        <ul role="list">
+
+                                            <li>
+                                                <p class="textC textD">Complete and submit the form on this page <br>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <div class="faq">1</div>
+                                    </div>
+                                </div>
+                                <div class="marginB marginS wraper" id="wrr">
+                                    <div class="stickyT">
+                                        <ul role="list">
+
+                                            <li>
+                                                <p class="textC textD">Discuss with the sales representative who will
+                                                    contact you to assist you with the rest of the procedure <br>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <div class="faq">2</div>
+                                    </div>
+                                </div>
+                                <div class="marginB marginS wraper" id="wrr">
+                                    <div class="stickyT">
+                                        <ul role="list">
+
+                                            <li>
+                                                <p class="textC textD">Put together the file and provide the documents
+                                                    requested above <br>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <div class="faq">3</div>
+                                    </div>
+                                </div>
+                                <div class="marginB marginS wraper" id="wrr">
+                                    <div class="stickyT">
+                                        <ul role="list">
+
+                                            <li>
+                                                <p class="textC textD">Starting your work <br>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <div class="faq">4</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="w_node stickyS">
+                            <div class="stickyDiv" id="hawa">
+                                <div class="marginB marginS">
+                                    <h2 class="headingL" id="headingl">
+                                        Steps to subscribe to the
+                                        <span class="spanT">
+                                            Khadamat service
+                                        </span>
+                                        <br>
+                                    </h2>
+                                </div>
+                                <div class="marginB marginM">
+                                    <div class="inter text-size-medium" id="l">
+                                        Agent Khadamat is a solution that allows a point of sale to collect cash on
+                                        behalf of third parties for invoices and other commercial transactions in a
+                                        simple and secure way.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footerc">
+        <div class="footers">
+            <a href="https://www.cashplus.ma/" class="footerg w-ii">
+                <img class="footergl" src="pic/cashplus-logo-09D6E69FD9-seeklogo.com.png" loading="lazy"
+                    alt="Logo of the Cash Plus group, leader in money transfers in Morocco">
+            </a>
+        </div>
+        <div class="footer"></div>
+        <div class="foter">
+            <a href="https://www.cashplus.ma/legal/mentions-legales" class="footerl">Legal information</a>
+            <div class="footercd"></div>
+            <a href="https://www.cashplus.ma/legal/conditions-generales" class="footerl">General conditions</a>
+            <div class="footercd"></div>
+            <a href="https://play.google.com/store/apps/details?id=com.cashplus.mobileapp&hl=fr&pli=1"
+                class="footerl">Android app</a>
+            <div class="footercd"></div>
+            <a href="https://apps.apple.com/fr/app/cash-plus-mobile-wallet/id1479205181?l=fr" class="footerl">IOS
+                app</a>
+        </div>
+    </footer>
+</body>
+
+<script>
+    var navlinks=document.getElementById("nav-lin");
+    function showeMenu(){
+        navlinks.style.right="-40px";
+
+    }
+    function hideMenu(){
+        navlinks.style.right="-400px";
+        }
+</script>
+<script>
+    window.onload = function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const success = urlParams.get('success');
+        const no = urlParams.get('no');
+        const file = urlParams.get('file');
+        const error = urlParams.get('error');
+        if (success) {
+            alert('Email sent successfully!');
+        }
+        if (file) {
+            alert('The attached file is not a PDF!');
+        }
+        if (no) {
+            alert('No attachment found or an error occurred during file upload!');
+        }
+        if (error) {
+            alert('Failed to send email. Please try again!');
+        }
+
+    };
+</script>
+
+</html>
