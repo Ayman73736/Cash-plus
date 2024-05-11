@@ -153,19 +153,19 @@ if ($file['error'] == 0) {
         il est utilisé pour délimiter les différentes parties d'un message*/
         $email_message .= $file_content;
     } else {
-        header("location: form.php?file=1");
+        header("location: form.html?file=1");
         exit();
     }
 } else {
-    header("location: form.php?no=1");
+    header("location: form.html?no=1");
     exit();
 }
 
 if (mail($to, $email_subject, $email_message, $headers)) {
-    header("location: form.php?success=1");
+    header("location: form.html?success=1");
     exit();
 } else {
-    header("location: form.php?error=1");
+    header("location: form.html?error=1");
 }
 
 
